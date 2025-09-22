@@ -1,0 +1,6 @@
+nohup: ignoring input
+Wisdom served on port=4499...
+
+GET / HTTP/1.1
+GET /favicon.ico HTTP/1.1
+
